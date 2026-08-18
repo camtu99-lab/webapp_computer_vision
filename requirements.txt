@@ -1,0 +1,15 @@
+streamlit>=1.32
+streamlit-webrtc>=0.47
+av
+numpy
+opencv-python-headless
+mediapipe
+tensorflow
+scikit-learn
+pandas
+openpyxl
+gTTS
+python-dotenv
+google-generativeai
+natsort
+pillow
