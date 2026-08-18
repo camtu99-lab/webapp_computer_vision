@@ -4,7 +4,7 @@ av
 numpy
 opencv-python-headless
 mediapipe
-tensorflow
+tensorflow-cpu
 scikit-learn
 pandas
 openpyxl
